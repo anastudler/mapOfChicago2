@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#map {
+    height: 600px;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.popup-content img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
